@@ -1,0 +1,4 @@
+Added instance resource 
+After that Added persistent disk 
+And then attatch disk to intances
+Taken Snapshot.
